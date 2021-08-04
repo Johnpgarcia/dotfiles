@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = johngarcia514@gmail.com
+	name = John Garcia
